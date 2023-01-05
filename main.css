@@ -1,20 +1,28 @@
 @font-face {
-    font-family: 'BatmanForever';
+    font-family: 'font 1';
     src: url(fonts/batmfo__.ttf);
 }
 
 h1  {
  
     text-align: center;
-    text-align:top;
+  
 }
 h1 {
     font-size: 100px;
 }
-h1  { font-family: "Batmanforever"; 
+h1  { font-family: "font 1"; 
 }
-h1  {color: greenyellow;}
+h1  {color: rgba(57, 217, 36, 0.9);}
 body {
     background-color:black;
 }
-
+button2 {
+    text-align:center;
+    color :greenyellow;
+    padding: 30px;
+}
+button3 {
+    text-align: center;
+    padding: 30px;
+}
